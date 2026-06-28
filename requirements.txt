@@ -1,13 +1,7 @@
-# Despliegue de Streamlit
-
 streamlit
 numpy
-plotly
 scipy
+plotly
 joblib
-
 scikit-learn
 xgboost
-#------------
-
- 
